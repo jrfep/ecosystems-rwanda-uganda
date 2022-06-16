@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -133,4 +133,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
->>>>>>> 603e77be48537f840f03aec6901c66c3ff0d8a44
